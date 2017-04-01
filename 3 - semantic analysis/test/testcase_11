@@ -1,0 +1,10 @@
+int inc (int a, float b) {
+	int ma;
+	ma = 1+32;
+	return ma;
+}
+float main(){
+	float c = 0;
+	int g = 0;
+	int  s= g(1,c);
+}

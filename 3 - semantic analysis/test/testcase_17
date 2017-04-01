@@ -1,0 +1,20 @@
+struct aaa{
+	int a;
+	int b;
+	float a;
+};
+struct bbb{
+	int c;
+	struct ccc s;
+	struct aaa e;
+	int d;
+};
+int inc()
+{
+	struct aaa a;
+	struct aaa d,res[10][12];
+	struct ccc g;
+	float s;
+	int i;
+	i = 1 + i;
+}

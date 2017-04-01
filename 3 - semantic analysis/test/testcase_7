@@ -1,0 +1,7 @@
+int main(){
+	int s =0;
+	float a =1.0;
+	int t =0;
+	int d = s +a;
+	int g = s + t;
+}

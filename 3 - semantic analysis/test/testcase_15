@@ -1,0 +1,16 @@
+struct aaa{
+	int a;
+	int b;
+	float a;
+};
+struct aaa{
+	int c;
+	int d;
+};
+int inc()
+{
+	int aaa;
+	float s;
+	int i;
+	i = 1 + i;
+}
